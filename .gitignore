@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large original datasets
+data/raw/
+data/splits/
+
+# Trained models
+models/*.joblib
+
+# Sensitive information
+.env
+
+# VS Code local settings
+.vscode/
