@@ -17,3 +17,12 @@ models/*.joblib
 
 # VS Code local settings
 .vscode/
+
+
+# Generated replay ground truth
+results/replay_ground_truth.csv
+
+# Runtime databases
+*.db
+*.sqlite
+*.sqlite3
