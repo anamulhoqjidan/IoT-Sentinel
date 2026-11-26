@@ -1,0 +1,12 @@
+{
+  "Decision Tree": {
+    "threshold": 0.05,
+    "validation_macro_f1": 0.9992,
+    "validation_false_positive_rate": 0.0
+  },
+  "Random Forest": {
+    "threshold": 0.25,
+    "validation_macro_f1": 0.9997,
+    "validation_false_positive_rate": 0.0
+  }
+}
